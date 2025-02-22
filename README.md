@@ -1,1 +1,1 @@
-This is full practise of Web Development 
+This is full Course of Web Development 
