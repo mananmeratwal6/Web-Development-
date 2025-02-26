@@ -1,0 +1,25 @@
+/* typography is the way that text is arranged and prensented */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    padding: 10%;
+    font-size: 2rem;
+    /* margin: 25%; */
+}
+/* input,button{
+    font: inherit;
+} */
+ p{
+    text-decoration: underline;
+    text-transform: lowercase;
+    text-align:left;
+    text-indent: 5em; 
+    line-height: 1.5;
+    word-spacing: 0.5em;
+    letter-spacing: 0.05em;
+ }
+ p{
+    font-weight: bolder;
+    font-style: italic       ;                                                   ;
+ }
