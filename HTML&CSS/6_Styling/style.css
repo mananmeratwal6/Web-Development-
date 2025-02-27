@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    padding: 10%;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: blue;
+}
+a:visited{
+    color: palegreen;
+}
+a:hover,a:focus   {
+    color: dodgerblue;
+    opacity: 0.4   ;
+    background-color: gold ;
+}
+a:active{
+    color: red                         ;
+}
