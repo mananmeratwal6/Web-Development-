@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* main{
+    background-color: aqua;
+    width: 50%;
+} */
+p{
+    background-color: rgb(166, 99, 159);
+    /* margin: 100px 50px; */
+}
+.Opposite{
+    display: inline-block;
+    background-color: #333;
+    color: aliceblue;
+    margin-top: 34px;
+    height: 60px;
+    padding: 4rem;
+}
+ul{
+    list-style-type: none;
+    padding: 0.5rem;
+    text-align: center;
+    background-color: #333;
+    margin: 0;
+
+}
+li{
+    display:inline-block ;
+    margin-inline: 0.5rem;
+}
+li a{
+    color: aliceblue;
+}
+li a:hover,li a:focus{
+    background-color: aquamarine;
+    color: blueviolet;
+}
